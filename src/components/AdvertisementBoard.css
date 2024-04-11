@@ -1,0 +1,25 @@
+.advertisement-board {
+margin: 20px auto;
+width: 60%;
+}
+
+.add-advertisement {
+margin-bottom: 20px;
+}
+
+.add-advertisement input {
+margin-right: 10px;
+}
+
+.advertisement-list {
+list-style-type: none;
+padding: 0;
+}
+
+.advertisement-list li {
+margin-bottom: 10px;
+}
+
+.advertisement-list li button {
+margin-left: 10px;
+}
